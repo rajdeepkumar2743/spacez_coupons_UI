@@ -1,14 +1,3 @@
-Here is a **clean, professional, job-ready README.md** for your Flutter Coupons Page Assignment.
-
-You can copy–paste directly into your GitHub repo ✔
-Fully formatted ✔
-Explains setup, structure, features, screenshots, and instructions ✔
-
----
-
-# 📄 **README.md — Flutter Coupons Page (Spacez Assignment)**
-
-```md
 # 🧾 Flutter Coupons Page – Spacez Assignment
 
 This project is a **frontend-only Flutter implementation** of the Coupons Page based on the provided **Figma UI**:  
@@ -81,7 +70,7 @@ lib/
 1. Install Flutter (3.16+ recommended)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/rajdeepkumar2743/spacez_coupons_UI.git
 ````
 
 3. Get dependencies
