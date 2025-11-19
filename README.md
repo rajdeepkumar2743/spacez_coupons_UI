@@ -1,16 +1,113 @@
-# spacez_coupons
+Here is a **clean, professional, job-ready README.md** for your Flutter Coupons Page Assignment.
 
-A new Flutter project.
+You can copy–paste directly into your GitHub repo ✔
+Fully formatted ✔
+Explains setup, structure, features, screenshots, and instructions ✔
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 📄 **README.md — Flutter Coupons Page (Spacez Assignment)**
 
-A few resources to get you started if this is your first Flutter project:
+```md
+# 🧾 Flutter Coupons Page – Spacez Assignment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a **frontend-only Flutter implementation** of the Coupons Page based on the provided **Figma UI**:  
+🔗 https://savz.live/devflutterassignment (Password: **spacez.co**)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The goal of the assignment is to recreate the design **pixel-perfect** and implement **full UI interactivity**, without backend integration.
+
+---
+
+## 🚀 Features Implemented
+
+### ✅ 1. Pixel-perfect UI
+The page UI has been designed exactly as shown in the Figma file:
+- Header with logo, menu button, and back arrow  
+- Coupon cards  
+- Payment offer card  
+- Price-side vertical tag  
+- Read more / Read less  
+- Sticky bottom “Reserve” bar  
+- Green “Reward” promo bar  
+
+---
+
+## 🎯 2. Fully Interactive Elements
+
+All actions display a **SnackBar success message**:
+
+- Apply coupon  
+- Apply payment offer  
+- Expand / Collapse coupon description  
+- Edit price tag (with popup dialog)  
+- Reserve button  
+- Menu button  
+- Learn more in reward bar  
+
+---
+
+## 🛠 3. Editable Price Tag (Dialog)
+Users can click on the vertical price tag to:
+- Open edit dialog  
+- Update price  
+- Save and reflect instantly  
+- Show success message  
+
+---
+
+## 📱 4. No Backend Required
+This is a **pure UI assignment**.  
+All data is mocked locally.  
+No Firebase / API / DB is used.
+
+---
+
+## 📂 Project Structure
+
+```
+
+lib/
+├── main.dart
+├── pages/
+│     └── coupons_page.dart
+
+
+````
+
+---
+
+## 🧪 How to Run the Project
+
+1. Install Flutter (3.16+ recommended)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your-repo.git
+````
+
+3. Get dependencies
+
+   ```sh
+   flutter pub get
+   ```
+4. Run the app
+
+   ```sh
+   flutter run
+   ```
+
+## ✨ Additional Notes
+
+* All UI elements are responsive.
+* Material 3 design guidelines followed.
+* Used clean reusable widgets for optimization.
+* Code organized for readability and maintainability.
+
+---
+
+## 👨‍💻 Developer
+
+**Rajdeep Kumar**
+Manual / Automation Tester & Flutter Developer
+📧 [rajdeepkumar.mca@gmail.com](mailto:rajdeepkumar.mca@gmail.com)
+
+
